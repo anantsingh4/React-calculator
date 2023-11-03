@@ -55,6 +55,7 @@ The app should now be running on `http://localhost:3000/`.
 
 ## Technologies Used
 
+- HTML
 - React
 - JavaScript
 - CSS
@@ -79,13 +80,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
 - Your Name
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: anantsingh4444@gmail.com
+- GitHub: https://github.com/anantsingh4
 
 ## Acknowledgments
 
