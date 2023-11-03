@@ -9,11 +9,8 @@ This is a simple calculator app built using React. It allows users to perform ba
 - Multiplication (*)
 - Division (/)
 - Clear (C) - Resets the calculator
+- Delete (DEL) - Removes the last input character
 - Equal (=) - Calculates the result of the expression
-
-## Demo
-
-You can try out the calculator app by visiting the [live demo](https://github.io/anantsingh4/React-calculator).
 
 ## Installation
 
